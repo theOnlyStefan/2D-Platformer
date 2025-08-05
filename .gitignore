@@ -1,0 +1,35 @@
+# Ignore the build output
+/build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# VS-related
+*.VC.db
+*.VC.opendb
+*.user
+*.suo
+*.ncb
+*.log
+*.tlog
+*.lastbuildstate
+*.idb
+*.pdb
+*.obj
+*.exe
+*.ilk
+*.ipch
+*.aps
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# vcpkg stuff (if you didn't clone vcpkg into this project, leave this)
+# /vcpkg/
+
+# Keep these important files!
+!.gitignore
+!CMakeLists.txt
+!vcpkg.json
