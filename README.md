@@ -18,7 +18,7 @@ It uses CMake and [vcpkg](https://github.com/microsoft/vcpkg) to manage dependen
 
 ---
 
-## 🛠 Building the Project
+## Building the Project
 
 1. Clone this repo:
     ```
