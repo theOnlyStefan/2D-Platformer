@@ -43,4 +43,4 @@ It uses CMake and [vcpkg](https://github.com/microsoft/vcpkg) to manage dependen
     cmake --build .
     ```
 
-Replace `/path/to/vcpkg` with your vcpkg location.
+## Replace `/path/to/vcpkg` with your vcpkg location.
